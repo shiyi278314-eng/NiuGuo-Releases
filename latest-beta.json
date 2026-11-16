@@ -1,0 +1,11 @@
+{
+  "channel": "beta",
+  "version": "26.11.16-beta.2",
+  "url": "",
+  "mirrors": [],
+  "sha256": "",
+  "min_version": "26.11.16-beta.1",
+  "notes": "占位清单：第一次真实发布时由 publish.py 生成。",
+  "force": false,
+  "released_at": ""
+}

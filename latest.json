@@ -1,0 +1,11 @@
+{
+  "channel": "stable",
+  "version": "0.0.2",
+  "url": "",
+  "mirrors": [],
+  "sha256": "",
+  "min_version": "0.0.1",
+  "notes": "占位清单：第一次真实发布时由 publish.py 生成，url / sha256 会一起写进来。",
+  "force": false,
+  "released_at": ""
+}
