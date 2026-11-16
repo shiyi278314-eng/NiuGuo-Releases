@@ -11,6 +11,6 @@
   "min_version": "0.0.1",
   "notes": "修复代码审计全部 21 条（现货订单单位、实盘真底仓、状态原子写、授权下沉、清单Ed25519签名、余额对账暂停、下单幂等、试用防重置、后端限流）。老客户端可直接升级。",
   "force": false,
-  "released_at": "2026-11-16 17:50:47",
-  "sig": "GE2V9as84drPMmj72s/ktvWIwISiEAIU8Nsw60G78tg2YhvF3agUsTrEDnqZkAqytAiyde31JYt8gqdbau5vBg=="
+  "released_at": "2026-11-16 17:59:59",
+  "sig": "z3hqTscWvWwzlAE7ShY1SPtdNcbniTkrENrC7t3f132ztKt30bSlwZOb30pUXBdNmgtoye/rsW3ko8Sc4KczDw=="
 }
