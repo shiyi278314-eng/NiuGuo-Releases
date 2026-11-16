@@ -1,15 +1,15 @@
 {
   "channel": "stable",
-  "version": "0.0.6",
-  "url": "https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.6/NiuGuo-0.0.6-setup.exe",
+  "version": "0.0.7",
+  "url": "https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.7/NiuGuo-0.0.7-setup.exe",
   "mirrors": [
-    "https://ghfast.top/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.6/NiuGuo-0.0.6-setup.exe",
-    "https://ghproxy.net/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.6/NiuGuo-0.0.6-setup.exe"
+    "https://ghfast.top/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.7/NiuGuo-0.0.7-setup.exe",
+    "https://ghproxy.net/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.7/NiuGuo-0.0.7-setup.exe"
   ],
-  "sha256": "a5544900dc12721bab7586451fee4dc30d19f637f5ef8f36db4eb78f9bf41dde",
-  "size": 44021561,
+  "sha256": "3b1c1ee72c0a13b1d572529b74e4a0cb0dfc5ad818b71747d857411a43cb58a5",
+  "size": 44019290,
   "min_version": "0.0.1",
-  "notes": "0.0.6：修复在线更新下载（多个下载源自动切换、卡住自动换源、支持本机代理）",
+  "notes": "0.0.7：机器码不再随安装盘/管理员权限变化（修复装好显示未激活）；更新下载多源自动切换",
   "force": false,
-  "released_at": "2026-11-16 14:33:52"
+  "released_at": "2026-11-16 14:52:21"
 }
