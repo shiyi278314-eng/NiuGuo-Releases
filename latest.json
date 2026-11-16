@@ -1,15 +1,16 @@
 {
   "channel": "stable",
-  "version": "0.0.7",
-  "url": "https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.7/NiuGuo-0.0.7-setup.exe",
+  "version": "0.0.8",
+  "url": "https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.8/NiuGuo-0.0.8-setup.exe",
   "mirrors": [
-    "https://ghfast.top/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.7/NiuGuo-0.0.7-setup.exe",
-    "https://ghproxy.net/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.7/NiuGuo-0.0.7-setup.exe"
+    "https://ghfast.top/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.8/NiuGuo-0.0.8-setup.exe",
+    "https://ghproxy.net/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.8/NiuGuo-0.0.8-setup.exe"
   ],
-  "sha256": "3b1c1ee72c0a13b1d572529b74e4a0cb0dfc5ad818b71747d857411a43cb58a5",
-  "size": 44019290,
+  "sha256": "f6b4a66eea5c4b5e4d302c7bc1a5f2cbc665992ac23db51319cd7a62591c6a30",
+  "size": 44045627,
   "min_version": "0.0.1",
-  "notes": "0.0.7：机器码不再随安装盘/管理员权限变化（修复装好显示未激活）；更新下载多源自动切换",
+  "notes": "修复代码审计全部 21 条（现货订单单位、实盘真底仓、状态原子写、授权下沉、清单Ed25519签名、余额对账暂停、下单幂等、试用防重置、后端限流）。老客户端可直接升级。",
   "force": false,
-  "released_at": "2026-11-16 14:52:21"
+  "released_at": "2026-11-16 17:50:47",
+  "sig": "GE2V9as84drPMmj72s/ktvWIwISiEAIU8Nsw60G78tg2YhvF3agUsTrEDnqZkAqytAiyde31JYt8gqdbau5vBg=="
 }
