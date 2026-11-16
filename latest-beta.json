@@ -1,11 +1,16 @@
 {
   "channel": "beta",
-  "version": "26.11.16-beta.2",
-  "url": "",
-  "mirrors": [],
-  "sha256": "",
-  "min_version": "26.11.16-beta.1",
-  "notes": "占位清单：第一次真实发布时由 publish.py 生成。",
+  "version": "26.11.16-beta.4",
+  "url": "https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/26.11.16-beta.4/NiuGuo-Beta-26.11.16-beta.4-setup.exe",
+  "mirrors": [
+    "https://ghfast.top/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/26.11.16-beta.4/NiuGuo-Beta-26.11.16-beta.4-setup.exe",
+    "https://ghproxy.net/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/26.11.16-beta.4/NiuGuo-Beta-26.11.16-beta.4-setup.exe"
+  ],
+  "sha256": "2bd65eb2bbfb7fbd32cc4f94fff867b8712f5b88f522af87963e4fc97aba950f",
+  "size": 44049590,
+  "min_version": "0.0.1",
+  "notes": "修复代码审计全部 21 条（同 0.0.8 正式版）。",
   "force": false,
-  "released_at": ""
+  "released_at": "2026-11-16 17:59:01",
+  "sig": "AEXIZiRpf+c/d91MZr1cMH0A7MUtDHfoCWMBhqEY/nznfbsYlfrEJmO85OQeHlvIn8p4uS3RHfb8Gjdb9558AA=="
 }
