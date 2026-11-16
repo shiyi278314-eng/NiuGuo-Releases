@@ -1,11 +1,15 @@
 {
   "channel": "stable",
-  "version": "0.0.2",
-  "url": "",
-  "mirrors": [],
-  "sha256": "",
+  "version": "0.0.4",
+  "url": "https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.4/NiuGuo-0.0.4-setup.exe",
+  "mirrors": [
+    "https://ghfast.top/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.4/NiuGuo-0.0.4-setup.exe",
+    "https://ghproxy.net/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.4/NiuGuo-0.0.4-setup.exe"
+  ],
+  "sha256": "824ef5924ac5be2fe0c07f730a64862f71e829014509b0ae52a43a2b5b336ec6",
+  "size": 44015290,
   "min_version": "0.0.1",
-  "notes": "占位清单：第一次真实发布时由 publish.py 生成，url / sha256 会一起写进来。",
+  "notes": "",
   "force": false,
-  "released_at": ""
+  "released_at": "2026-11-16 13:55:51"
 }
