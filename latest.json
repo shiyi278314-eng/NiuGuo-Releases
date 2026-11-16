@@ -1,15 +1,15 @@
 {
   "channel": "stable",
-  "version": "0.0.5",
-  "url": "https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.5/NiuGuo-0.0.5-setup.exe",
+  "version": "0.0.6",
+  "url": "https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.6/NiuGuo-0.0.6-setup.exe",
   "mirrors": [
-    "https://ghfast.top/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.5/NiuGuo-0.0.5-setup.exe",
-    "https://ghproxy.net/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.5/NiuGuo-0.0.5-setup.exe"
+    "https://ghfast.top/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.6/NiuGuo-0.0.6-setup.exe",
+    "https://ghproxy.net/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.6/NiuGuo-0.0.6-setup.exe"
   ],
-  "sha256": "69576303ff55190b41dbc95bc20ec597961d8d8228a2309e5af440cd383234cc",
-  "size": 44022233,
+  "sha256": "a5544900dc12721bab7586451fee4dc30d19f637f5ef8f36db4eb78f9bf41dde",
+  "size": 44021561,
   "min_version": "0.0.1",
-  "notes": "0.0.5：修复装好后显示未激活（机器码不再依赖管理员权限）；新增短码在线激活支持",
+  "notes": "0.0.6：修复在线更新下载（多个下载源自动切换、卡住自动换源、支持本机代理）",
   "force": false,
-  "released_at": "2026-11-16 14:17:55"
+  "released_at": "2026-11-16 14:33:52"
 }
