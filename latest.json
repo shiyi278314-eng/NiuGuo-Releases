@@ -6,10 +6,10 @@
     "https://ghfast.top/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.4/NiuGuo-0.0.4-setup.exe",
     "https://ghproxy.net/https://github.com/shiyi278314-eng/NiuGuo-Releases/releases/download/v0.0.4/NiuGuo-0.0.4-setup.exe"
   ],
-  "sha256": "824ef5924ac5be2fe0c07f730a64862f71e829014509b0ae52a43a2b5b336ec6",
-  "size": 44015290,
+  "sha256": "f6798fcb2e71bf14178e8fe37540ba6126aefd997e1573446c9661b515a369eb",
+  "size": 44008015,
   "min_version": "0.0.1",
   "notes": "",
   "force": false,
-  "released_at": "2026-11-16 13:55:51"
+  "released_at": "2026-11-16 14:05:06"
 }
